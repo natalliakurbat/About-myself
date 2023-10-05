@@ -1,0 +1,61 @@
+html {
+    font-size: 18px;
+    background-color: rgb(116, 187, 234);
+}
+
+h1 {
+    font-size: 2rem;
+    text-align: center;
+    color: white;
+    text-decoration: underline;
+    font-weight: 200;
+}
+
+h2 {
+    font-size: 1.5rem;
+    text-align: center;
+    color: darkorchid;
+    text-transform: uppercase;
+}
+
+.name {
+    font-size: 2rem;
+    font-style: italic;
+}
+
+p {
+    font-style: oblique;
+}
+
+b {
+    color: darkgreen
+}
+
+.border {
+    border-left: 5px dashed darkgreen;
+    border-radius: 10%;
+    font-style: oblique;
+}
+
+.films {
+    border: 2px solid blue;
+}
+
+.films p,
+.me p {
+    text-align: center;
+}
+
+footer {
+    background-color: darkorchid;
+    color: white;
+    text-align: center;
+}
+
+a {
+    color: white;
+}
+
+.network li {
+    list-style-type: none;
+}
